@@ -1,0 +1,2 @@
+# lgnq
+codeblocks + sdcc
